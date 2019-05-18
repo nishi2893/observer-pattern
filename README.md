@@ -6,14 +6,7 @@ In this program, the voting process has been implemented with the use of observe
 
 After each poll has received all their votes, have the poll count the votes by simply subtracting each team’s vote from 26 and adding the result to a total for the team.  For example, if a subset of voters voted for UCLA as #1, #9, #10 and #12, the vote would sum 26-1 + 26-9 + 26-10 + 26 – 12 = 72. After all tabulations are done, sort the teams from high to lowest totals. This is the weekly poll. Notify all subscribers. 
 
-The subscribers all subscribe to both polls. After each subscriber has received both polls, they should update their respective displays. The subscriber display or the program output is given below:
-
-	LA Times					                      	ESPN
-AP 			     USAToday 		                     AP			USAToday
- 1. LSU		   1. UCLA		                  1. LSU			1. UCLA
- 2. Texas		 2. USC			                  2. Texas		2. USC
- 3. OhioSt	 3. Mississippi		            3. OhioSt		3. Mississippi
-....
+The subscribers all subscribe to both polls. After each subscriber has received both polls, they should update their respective displays. The subscriber display is the output of the program.
 
 ## What I used?
 
